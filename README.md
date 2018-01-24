@@ -1,2 +1,2 @@
 # vue-js-examples
-playing with vue.js
+https://vuejs.org/v2/guide/
